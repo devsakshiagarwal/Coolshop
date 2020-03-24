@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CoolShop</string>
+    <string name="issues_list">Ios Repo Issue List</string>
+    <string name="no_data_comment">Oops! there are no comments related to this issue</string>
+    <string name="comments_for">Comments for id :&#160;</string>
+    <string name="email">E-mail address</string>
+    <string name="edit">EDIT</string>
+    <string name="password">********</string>
+    <string name="sign_in">Sign In</string>
+    <string name="login_failed">Failed to login. Please try again</string>
+    <string name="invalid_email">Please enter valid email id</string>
+    <string name="invalid_password">Password should have at least 8 characters</string>
+    <string name="error_login">Something does not seem to be right. Please try again</string>
+    <string name="error_permission">Something went wrong</string>
+    <string name="error_permission_permanent">Please check for permissions in App setting</string>
+</resources>

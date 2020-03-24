@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_half">8dp</dimen>
+    <dimen name="margin_standard">16dp</dimen>
+    <dimen name="height_toolbar">56dp</dimen>
+    <dimen name="text_15">15sp</dimen>
+    <dimen name="text_13">13sp</dimen>
+    <dimen name="margin_double">32dp</dimen>
+    <dimen name="margin_max">160dp</dimen>
+</resources>
